@@ -16,12 +16,6 @@ A simple, free application for downloading videos from YouTube and other platfor
 
 ---
 
-## Screenshots
-
-*(Include screenshots of your application here)*
-
----
-
 ## Requirements
 
 - Python 3.x
@@ -34,7 +28,7 @@ A simple, free application for downloading videos from YouTube and other platfor
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/youtube-video-downloader.git
+   git clone https://github.com/ab069/youtube-video-downloader.git
    ```
 2. **Install dependencies**:
    ```bash
@@ -56,7 +50,7 @@ A simple, free application for downloading videos from YouTube and other platfor
 
 ---
 
-## Build Executable (Optional)
+## Build Executable 
 
 If you'd like to create a standalone executable:
 1. Install `PyInstaller`:
@@ -75,46 +69,3 @@ If you'd like to create a standalone executable:
 
 This application is intended for downloading non-copyrighted or freely available videos only. The developer is not responsible for any misuse of this software. Users must ensure they comply with the terms of service of the respective platforms.
 
----
-
-## Contribution
-
-Contributions are welcome! If you encounter any issues or have suggestions for improvement, feel free to open an issue or submit a pull request.
-
----
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-## Acknowledgments
-
-- [yt-dlp](https://github.com/yt-dlp/yt-dlp): A powerful video downloading library.
-- Python's `tkinter` library for GUI development.
-```
-
-### **Key Sections Explained**
-1. **Title and Description**:
-   - Provide a concise summary of your application.
-2. **Features**:
-   - Highlight the key features of your app.
-3. **Requirements**:
-   - List dependencies for users who want to run the app from source.
-4. **Installation**:
-   - Step-by-step instructions for running the app.
-5. **How to Use**:
-   - Clear instructions for end-users.
-6. **Build Executable**:
-   - For those who want to create a standalone app.
-7. **Legal Disclaimer**:
-   - A mandatory disclaimer for compliance.
-8. **Contribution**:
-   - Encourage collaboration.
-9. **License**:
-   - Mention the license (e.g., MIT License).
-10. **Acknowledgments**:
-    - Acknowledge tools or libraries used.
-
-Would you like assistance with customizing or adding specific sections?

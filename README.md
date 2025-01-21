@@ -1,4 +1,3 @@
-Here’s a basic `README.md` template for your GitHub repository. You can customize it to include more details about your application:
 
 ```markdown
 # YouTube Video Downloader
